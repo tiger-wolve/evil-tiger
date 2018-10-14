@@ -1,6 +1,7 @@
 ## Languages
-| Language Name | Evil Tiger
---------------------------
+| Language Name | Evil Tiger |
+|--------------------------|
+---------------------------
 
 | afrikaans |
 | albanian |
