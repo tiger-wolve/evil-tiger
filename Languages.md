@@ -1,6 +1,5 @@
 ## Languages
 | Language Name | Evil Tiger |
-|--------------------------|
 ---------------------------
 
 | afrikaans |
