@@ -1,45 +1,24 @@
-**ping** - Check Bot Latency
-
+**ping** - Check Bot Latency 
 **avatar** - Get Someone's or your avatar
-
 **stats** - Check Bot Stats
-
 **invite** - Get a Link to invite the bot
-
 **esay** - Sends given message in embed
-
 **say** - Says your message
-
 **info** - Bot Info
-
 **channel-info** - Get the current channel info
-
 **server-info** - Get the server's info 
-
 **role-info** - Get a role's info
-
 **user-info** - Get a user's info
-
 **attach** - Attach a file using the bot
-
 **empic** - Embed a image using the bot
-
 **report** - Report a user to the server staff!
-
 **suggest** - Suggest something to the server staff!
-
 **remind-me** - add reminders to be reminded
-
 **calc** - Calculates the given equation and returns correct answer
-
 **evce** - Send a everyone ping in the current channel with your message! [MOD]
-
 **id** - Get a role ID 
-
 **weather** - Get weather of a location
-
 **credits** - Evil Tiger credits
-
 **server-avatar** - Get the server avatar
 **mcserver** - Get a mincraft server's info
 **mcskin**/**mcbody** - Get someone's skin/body
