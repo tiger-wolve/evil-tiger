@@ -1,4 +1,5 @@
 ### Utility Comamnds
+----------
 **ping** - Check Bot Latency 
 
 **avatar** - Get Someone's or your avatar 
@@ -48,6 +49,7 @@
 **mcskin**/**mcbody** - Get someone's skin/body
 
 ### Customization
+----------
 **modlog** - Set the server modlog 
 
 **reports-channel** - Set server report channel 
@@ -55,6 +57,7 @@
 **suggestion** - Set server suggestion channel
 
 ### Fun Commands
+----------
 **ascii** - Transforms your text into ascii 
 
 **meme** - Get a random meme 
@@ -112,6 +115,7 @@
 **geek-joke** - Get a geek joke
 
 ### Image Manipulation Commands
+----------
 **dog** - Get a random doggo 
 
 **clyde** - Make clyde say your text! 
@@ -161,6 +165,7 @@
 **snake** - Get a stunning snake
 
 ### Economy Commands
+----------
 **daily** - Get your daily 250 
 
 **store** - Open the store 
@@ -170,6 +175,7 @@
 **give** - Give someone money
 
 ### Emoji commands
+----------
 **butt** - Get A Butt Emoji 
 
 **blobhug** - Get a blob hug emoji  
@@ -183,6 +189,7 @@
 **gg** - Drop GGs
 
 ### Staff Management
+----------
 **demote** - DMs the user the news that they were demoted 
 
 **accept** - DMs the user the news that their staff app was acccpeted 
@@ -190,6 +197,7 @@
 **decline** - DMs the user the news that their staff app was declined
 
 ### Mod Commands
+----------
 **purge** - Deletes the given amount of messages  
 
 **kick** - Kick Someone 
