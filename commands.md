@@ -112,61 +112,106 @@
 **geek-joke** - Get a geek joke
 
 ### Image Manipulation Commands
-**dog** - Get a random doggo
-**clyde** - Make clyde say your text!
-**cat** - Get a random kitty
-**iphone-x** - Insert a photo into Iphone X 
-**trumptweet** - Make trump tweet your text
-**neko** - Get a neko in your DMs
-**holo** - Get a holo in your DMs
-**kanna** - Get a kanna in your DMs 
-**anime** - Get a cute girl in your DMs
-**mur** - Get furry
-**shibe** - Get coolest shibes
-**bunny** - Get a cute bunny gif
-**duck** - Get a random ducks gif
-**fox** - Get a random fox image
-**lion** - Get a cool lion image
-**lizard** - Get a lizard image
-**owl** - Get a owl image
-**panda** - Get a cute panda
-**penguin** - Get a penguin image
-**red-panda** - Get a red panda image
-**tiger** - Get a cool tiger image
-**pikachu** - Get pika images
-**bird** - Get a beautiful bird
+**dog** - Get a random doggo 
+
+**clyde** - Make clyde say your text! 
+
+**cat** - Get a random kitty 
+
+**iphone-x** - Insert a photo into Iphone X  
+
+**trumptweet** - Make trump tweet your text 
+
+**neko** - Get a neko in your DMs 
+
+**holo** - Get a holo in your DMs 
+
+**kanna** - Get a kanna in your DMs  
+
+**anime** - Get a cute girl in your DMs 
+
+**mur** - Get furry animals 
+
+**shibe** - Get coolest shibes 
+
+**bunny** - Get a cute bunny gif 
+
+**duck** - Get a random ducks gif 
+
+**fox** - Get a random fox image 
+
+**lion** - Get a cool lion image 
+
+**lizard** - Get a lizard image 
+
+**owl** - Get a owl image 
+
+**panda** - Get a cute panda 
+
+**penguin** - Get a penguin image 
+
+**red-panda** - Get a red panda image 
+
+**tiger** - Get a cool tiger image 
+
+**pikachu** - Get pika images 
+
+**bird** - Get a beautiful bird 
+
 **snake** - Get a stunning snake
 
 ### Economy Commands
-**daily** - Get your daily 250
-**store** - Open the store
-**buy** - Buy something from the store
+**daily** - Get your daily 250 
+
+**store** - Open the store 
+
+**buy** - Buy something from the store 
+
 **give** - Give someone money
 
 ### Emoji commands
-**butt** - Get A Butt Emoji
-**blobhug** - Get a blob hug emoji 
-**tada** - Get a HyperTada Emoji
-**tick** - Get a tick Emoji 
-**cross** - Get a cross emoji
+**butt** - Get A Butt Emoji 
+
+**blobhug** - Get a blob hug emoji  
+
+**tada** - Get a HyperTada Emoji 
+
+**tick** - Get a tick Emoji  
+
+**cross** - Get a cross emoji 
+
 **gg** - Drop GGs
 
 ### Staff Management
-**demote** - DMs the user the news that they were demoted
-**accept** - DMs the user the news that their staff app was acccpeted
+**demote** - DMs the user the news that they were demoted 
+
+**accept** - DMs the user the news that their staff app was acccpeted 
+
 **decline** - DMs the user the news that their staff app was declined
 
 ### Mod Commands
-**purge** - Deletes the given amount of messages 
-**kick** - Kick Someone
-**ban** - Ban Someone 
-**unban** - Unban Someone
-**hackban** - Ban someone who is not in the server
+**purge** - Deletes the given amount of messages  
+
+**kick** - Kick Someone 
+
+**ban** - Ban Someone  
+
+**unban** - Unban Someone 
+
+**hackban** - Ban someone who is not in the server 
+
 **rolecolor** - Set's color of a role 
-**warn** - Warn a user
-**mute** - Mutes the user for given time
-**poll** - Generates a poll with given words as the title
-**lock** - Lockdown a channel for a given duration
-**addrole** - Add a role to the mentioned user
-**remrole** - Remove a role from the mentioned user
+ 
+**warn** - Warn a user 
+
+**mute** - Mutes the user for given time 
+
+**poll** - Generates a poll with given words as the title 
+
+**lock** - Lockdown a channel for a given duration 
+
+**addrole** - Add a role to the mentioned user 
+
+**remrole** - Remove a role from the mentioned user 
+
 **announce** - Announce something in the current channel
