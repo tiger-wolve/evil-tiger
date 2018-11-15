@@ -33,7 +33,7 @@
 
 **calc** - Calculates the given equation and returns correct answer 
 
-**evce** - Send a everyone ping in the current channel with your message! [MOD](#mod-commands) 
+**evce** - Send a everyone ping in the current channel with your message! [[MOD]](#mod-commands) 
 
 **id** - Get a role ID 
  
